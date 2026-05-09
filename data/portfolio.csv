@@ -1,0 +1,6 @@
+ticker,market,shares,avg_price,avg_price_currency,account_type,asset_class
+005930.KS,KR,100,70000,KRW,ISA,stock
+PLTR,US,50,10.50,USD,일반,stock
+AAPL,US,10,145.00,USD,일반,stock
+MSFT,US,8,280.00,USD,일반,stock
+QQQ,US,5,320.00,USD,일반,etf
